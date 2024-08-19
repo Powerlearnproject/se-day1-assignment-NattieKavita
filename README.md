@@ -57,5 +57,5 @@ prompt engineering is being able to create a question or statement to get the be
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-Tell me more about computers 
-could you tell me when the first computer was invented ,who invented it and highlight six functions of a computer 
+1.Tell me more about computers 
+2.could you tell me when the first computer was invented ,who invented it and highlight six functions of a computer 
